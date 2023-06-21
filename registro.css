@@ -1,0 +1,14 @@
+/* html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+} */
+#texto-input{
+    text-align: center;
+}
